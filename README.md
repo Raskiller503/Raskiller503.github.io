@@ -5,9 +5,9 @@
 <!--![Raskiller503's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raskiller503&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raskiller503)](https://github.com/anuraghazra/github-readme-stats)
 -->
-# Reminder of reference
+<!--# Reminder of reference
 - *[B. Mataloto, J. C. Ferreira and R. P. Resende, “Long Term Energy Savings Through User Behavior Modeling in Smart Homes,” in IEEE Access, vol. 11, pp. 44544-44558, 2023!](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10114922)*
-- *[hello]*
+- *[hello]*-->
 # Open Access Projects
 
 - **[Calculating PMV index by Python](https://github.com/Raskiller503/Thermal-comfort-tool-)**  
