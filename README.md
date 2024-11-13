@@ -3,7 +3,7 @@
 - **E-mail**: *chen@energy.arch.kyushu-u.ac.jp*
 - **Research title**: *[Development of a Building Energy Efficiency Diagnosis and Nudge System by BI-Tech](https://q-pit.kyushu-u.ac.jp/fellow-ship-en/fellow-2023-en/chen/)*
 # Research interests
-- **Iot-edge computing**
+- **IoT-edge computing**
 - **Machine Learning / Mutimodal model / Deep learning**
 - **Wireless sensing**
 <!--![Raskiller503's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raskiller503&show_icons=true&theme=radical&count_private=true)
