@@ -2,12 +2,16 @@
 - **Phd Student in [Kyushu University](https://www.kyushu-u.ac.jp/en/),  [Sustainable Building Energy Systems Laboratory](https://energy.arch.kyushu-u.ac.jp/index.html).**
 - **E-mail**: *chen@energy.arch.kyushu-u.ac.jp*
 - **Research title**: *[Development of a Building Energy Efficiency Diagnosis and Nudge System by BI-Tech](https://q-pit.kyushu-u.ac.jp/fellow-ship-en/fellow-2023-en/chen/)*
+# Research interests
+- **Iot-edge computing**
+- **Machine Learning / Mutimodal model / Deep learning**
+- **Wireless sensing**
 <!--![Raskiller503's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raskiller503&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raskiller503)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<!--# Reminder of reference
+<!-- # Reminder of reference
 - *[B. Mataloto, J. C. Ferreira and R. P. Resende, “Long Term Energy Savings Through User Behavior Modeling in Smart Homes,” in IEEE Access, vol. 11, pp. 44544-44558, 2023!](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10114922)*
-- *[hello]*-->
+- *[hello]* -->
 # Open Access Projects
 
 - **[Calculating PMV index by Python](https://github.com/Raskiller503/Thermal-comfort-tool-)**  
