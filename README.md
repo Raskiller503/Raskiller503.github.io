@@ -19,6 +19,7 @@
 
 - **[Realtime HVAC system performance check kit](https://github.com/Raskiller503/HVAC-IoT-Performance-Monitor)**  
   An IoT-based BI-Tech (Behavioral Insight X Technology) platform for checking the Coefficient of Performance (COP) in real-time in VRF systems.
+- **[Set-point temperature based HVAC energy consumption prediction model](https://github.com/Raskiller503/Set-point-temperature-based-AC-energy-consumption-prediction-model)**
 
 
 
