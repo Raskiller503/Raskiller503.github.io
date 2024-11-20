@@ -1,7 +1,7 @@
 # Welcome to **[Yutong's Github Homepage](https://github.com/Raskiller503)**
 - **Phd Student in [Kyushu University](https://www.kyushu-u.ac.jp/en/),  [Sustainable Building Energy Systems Laboratory](https://energy.arch.kyushu-u.ac.jp/index.html).**
 - **E-mail**: *chen@energy.arch.kyushu-u.ac.jp*
-- **Research title**: *[Development of a Building Energy Efficiency Diagnosis and Nudge System by BI-Tech](https://q-pit.kyushu-u.ac.jp/fellow-ship-en/fellow-2023-en/chen/)*
+- **Research introduction**: *[Development of a Building Energy Efficiency Diagnosis and Nudge System by BI-Tech](https://q-pit.kyushu-u.ac.jp/fellow-ship-en/fellow-2023-en/chen/)*
 # Research interests
 - **IoT-edge computing**
 - **Machine Learning / Mutimodal model / Deep learning**
