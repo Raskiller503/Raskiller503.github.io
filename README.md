@@ -21,7 +21,7 @@
   An IoT-based BI-Tech (Behavioral Insight X Technology) platform for checking the Coefficient of Performance (COP) in real-time in VRF systems.\
   ***<u>Chen Y</u>**, Sumiyoshi D, et al. 2024. An IoT-Based Diagnostic Interaction System for HVAC performance in Office Buildings. Proceedings of Asim 2024.* 
 - **[Set-point temperature based HVAC energy consumption prediction model](https://github.com/Raskiller503/Set-point-temperature-based-AC-energy-consumption-prediction-model)**\
-  *<u>**Chen Y**</u>, Sumiyoshi D, Sakai R, et al. 2024. Development of Low-Cost IoT Units for Thermal Comfort Measurement and AC Energy Consumption Prediction System. Proceedings of RoomVent 2024.* 
+  ***<u>Chen Y</u>**, Sumiyoshi D, Sakai R, et al. 2024. Development of Low-Cost IoT Units for Thermal Comfort Measurement and AC Energy Consumption Prediction System. Proceedings of RoomVent 2024.* 
 
 
 
