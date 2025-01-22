@@ -19,9 +19,11 @@
 
 - **[Realtime HVAC system performance check kit](https://github.com/Raskiller503/HVAC-IoT-Performance-Monitor)**  
   An IoT-based BI-Tech (Behavioral Insight X Technology) platform for checking the Coefficient of Performance (COP) in real-time in VRF systems.\
-  ***<u>Chen Y</u>**, Sumiyoshi D, et al. 2024. An IoT-Based Diagnostic Interaction System for HVAC performance in Office Buildings. Proceedings of Asim 2024.* 
+  ***<u>Chen Y</u>**, Sumiyoshi D, et al. 2024. An IoT-Based Diagnostic Interaction System for HVAC performance in Office Buildings. Proceedings of Asim 2024.*
+*[Download Paper](https://publications.ibpsa.org/conference/paper/?id=asim2024_1255)*
 - **[Set-point temperature based HVAC energy consumption prediction model](https://github.com/Raskiller503/Set-point-temperature-based-AC-energy-consumption-prediction-model)**\
-  ***<u>Chen Y</u>**, Sumiyoshi D, Sakai R, et al. Development of Low-Cost IoT Units for Thermal Comfort Measurement and AC Energy Consumption Prediction System[J]. arXiv preprint arXiv:2411.19536, 2024 https://doi.org/10.48550/arXiv.2411.19536*
+  ***<u>Chen Y</u>**, Sumiyoshi D, Sakai R, et al. Development of Low-Cost IoT Units for Thermal Comfort Measurement and AC Energy Consumption Prediction System[J].*
+*[Download Paper](https://doi.org/10.48550/arXiv.2411.19536)*
 
 
 
