@@ -1,22 +1,6 @@
----
-layout: default
-title: Chen Yutong - Building Energy Systems Researcher
-description: PhD student at Kyushu University focusing on IoT, machine learning, and building energy efficiency
----
-
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="flex: 1;">
-    
-# Chen Yutong 
-
+# Chen Yutong
 ## About Me
-  </div>
-  <div style="flex: 0 0 250px;">
-    <img src="https://raw.githubusercontent.com/Raskiller503/Raskiller503.github.io/main/IMG_8327.png" 
-         alt="Chen Yutong" 
-         style="width: 100%; max-width: 250px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
-  </div>
-</div>
+
 
 I am a PhD student at the [Sustainable Building Energy Systems Laboratory](https://energy.arch.kyushu-u.ac.jp/index.html), [Kyushu University](https://www.kyushu-u.ac.jp/en/), Japan. My research focuses on developing innovative solutions for building energy efficiency through the integration of IoT technologies, machine learning, and wireless sensing systems.
 
