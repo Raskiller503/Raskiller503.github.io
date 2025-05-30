@@ -1,30 +1,89 @@
-# Welcome to **[Yutong's Github Homepage](https://github.com/Raskiller503)**
-- **Phd Student in [Kyushu University](https://www.kyushu-u.ac.jp/en/),  [Sustainable Building Energy Systems Laboratory](https://energy.arch.kyushu-u.ac.jp/index.html).**
-- **E-mail**: *chen@energy.arch.kyushu-u.ac.jp*
-- **Research introduction**: *[Development of a Building Energy Efficiency Diagnosis and Nudge System by BI-Tech](https://wakasapo.nedo.go.jp/seeds/seeds-1883/)*
-# Research interests
-- **IoT-edge computing**
-- **Machine Learning / Mutimodal model / Deep learning**
-- **Wireless sensing**
-# Open Access Projects
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="flex: 1;">
+    
+# Chen Yutong 
 
-- **[Calculating PMV index by Python](https://github.com/Raskiller503/Thermal-comfort-tool-)**  
-  Open-source Python method for thermal comfort index calculation.
+## About Me
+  </div>
+  <div style="flex: 0 0 250px;">
+    <img src="https://raw.githubusercontent.com/Raskiller503/Raskiller503.github.io/main/IMG_8327.png" 
+         alt="Chen Yutong" 
+         style="width: 100%; max-width: 250px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
 
-- **[Text recognition by OpenCV](https://github.com/Raskiller503/ImageRecognition-AC-pannel-_-OpenCV)**  
-  Recognizing set-point temperature via Raspberry Pi based on OpenCV.
+I am a PhD student at the [Sustainable Building Energy Systems Laboratory](https://energy.arch.kyushu-u.ac.jp/index.html), [Kyushu University](https://www.kyushu-u.ac.jp/en/), Japan. My research focuses on developing innovative solutions for building energy efficiency through the integration of IoT technologies, machine learning, and wireless sensing systems.
 
-- **[Desktop Application via Python PyQT5 library](https://github.com/Raskiller503/Pyqt5-DesktopGUI)**  
-  A desktop application based on the PyQt5 library, designed for energy management and thermal comfort monitoring in office buildings.
+**Contact Information:**
+- **Email:** chen@energy.arch.kyushu-u.ac.jp
+- **Location:** Fukuoka, Japan
+- **Laboratory:** [Sustainable Building Energy Systems Laboratory](https://energy.arch.kyushu-u.ac.jp/index.html)
 
-- **[Realtime HVAC system performance check kit](https://github.com/Raskiller503/HVAC-IoT-Performance-Monitor)**  
-  An IoT-based BI-Tech (Behavioral Insight X Technology) platform for checking the Coefficient of Performance (COP) in real-time in VRF systems.\
-  ***<u>Chen Y</u>**, Sumiyoshi D, et al. 2024. An IoT-Based Diagnostic Interaction System for HVAC performance in Office Buildings. Proceedings of Asim 2024.*
-*[Download Paper](https://publications.ibpsa.org/conference/paper/?id=asim2024_1255)*
-- **[Set-point temperature based HVAC energy consumption prediction model](https://github.com/Raskiller503/Set-point-temperature-based-AC-energy-consumption-prediction-model)**\
-  ***<u>Chen Y</u>**, Sumiyoshi D, Sakai R, et al. Development of Low-Cost IoT Units for Thermal Comfort Measurement and AC Energy Consumption Prediction System[J].*
-*[Download Paper](https://doi.org/10.48550/arXiv.2411.19536)*
+## Current Research
 
+**Project:** [Development of a Building Energy Efficiency Diagnosis and Nudge System by BI-Tech](https://wakasapo.nedo.go.jp/seeds/seeds-1883/)
 
+My doctoral research centers on creating intelligent building systems that optimize energy consumption while maintaining occupant comfort. The work involves developing BI-Tech (Behavioral Insight × Technology) platforms that provide real-time feedback and nudging mechanisms to improve building energy performance.
 
+## Research Interests
 
+**Primary Areas:**
+- **IoT & Edge Computing:** Developing distributed computing systems for real-time building performance monitoring
+- **Machine Learning Applications:** Creating predictive models for HVAC energy consumption and thermal comfort optimization
+- **Wireless Sensing Technologies:** Non-intrusive monitoring solutions for building environmental parameters
+- **Model Predictive Control (MPC):** Advanced control strategies for HVAC systems optimization
+
+**Technical Expertise:**
+- Building energy simulation and analysis
+- Thermal comfort assessment and modeling
+- IoT system design and implementation
+- Computer vision applications in building automation
+- Data analytics and machine learning for sustainability
+
+## Selected Publications & Projects
+
+### Peer-Reviewed Publications
+
+**Chen Y**, Sumiyoshi D, et al. (2024). "An IoT-Based Diagnostic Interaction System for HVAC performance in Office Buildings." *Proceedings of ASIM 2024*. [📄 Download](https://publications.ibpsa.org/conference/paper/?id=asim2024_1255)
+
+**Chen Y**, Sumiyoshi D, Sakai R, et al. "Development of Low-Cost IoT Units for Thermal Comfort Measurement and AC Energy Consumption Prediction System." *Preprint*. [📄 arXiv:2411.19536](https://doi.org/10.48550/arXiv.2411.19536)
+
+### Manuscripts Under Review
+
+**Chen Y**, et al. "A Low-Cost IoT Framework for Device-Free Human Counting and Lighting Energy Control in Commercial Spaces." *Under Review*, 2025.
+
+**Chen Y**, et al. "BI-Tech: An IoT-Based Behavioral Intervention System for User-Driven Energy Optimization in Commercial Spaces." *Under Review*, 2025.
+
+### Open Source Contributions
+
+**Research Tools & Applications:**
+- **[Thermal Comfort Calculation Tool](https://github.com/Raskiller503/Thermal-comfort-tool-)** - Open-source Python implementation for PMV (Predicted Mean Vote) thermal comfort index calculation
+- **[HVAC Performance Monitoring System](https://github.com/Raskiller503/HVAC-IoT-Performance-Monitor)** - IoT-based real-time COP detection system for Variable Refrigerant Flow (VRF) systems
+- **[Energy Consumption Prediction Model](https://github.com/Raskiller503/Set-point-temperature-based-AC-energy-consumption-prediction-model)** - Machine learning model for predicting HVAC energy consumption based on set-point temperatures
+
+**Technical Applications:**
+- **[Computer Vision for HVAC Control](https://github.com/Raskiller503/ImageRecognition-AC-pannel-_-OpenCV)** - Raspberry Pi-based system using OpenCV for automated temperature reading from HVAC control panels
+- **[Building Energy Management GUI](https://github.com/Raskiller503/Pyqt5-DesktopGUI)** - Desktop application for energy management and thermal comfort monitoring in office buildings
+- **[Industrial IoT Monitoring](https://github.com/Raskiller503/SaltProcessMetrics)** - Arduino-based monitoring system for industrial process optimization
+
+## Technical Skills
+
+**Programming Languages:** Python, C++, HTML/CSS, SQL  
+**Frameworks & Libraries:** OpenCV, PyQt5, TensorFlow, Pandas, NumPy  
+**IoT & Hardware:** Arduino, Raspberry Pi, Various sensors and actuators  
+**Tools & Platforms:** Linux, MySQL, Git, REST API development  
+**Research Methods:** Data analysis, Statistical modeling, Experimental design
+
+## Academic Background
+
+**Current:** PhD in Architecture (Building Energy Systems)  
+**Institution:** Kyushu University, Japan  
+**Research Focus:** Building Energy Efficiency and IoT Applications
+
+## Research Philosophy
+
+I deeply believe in the Internet of Things (IoT) and the transformative potential of machine learning and deep learning applications in building energy systems. My research philosophy centers on the conviction that everything can be interconnected, creating intelligent networks that learn, adapt, and optimize building performance autonomously.
+
+Through the integration of advanced AI algorithms with IoT infrastructure, I envision a future where buildings become self-learning entities capable of predicting, responding to, and optimizing for both energy efficiency and occupant comfort in real-time. This interconnected approach not only revolutionizes how we understand building performance but also enables unprecedented levels of automation and intelligence in sustainable architecture.
+
+---
+
+*Last updated: May 2025*
