@@ -1,4 +1,4 @@
-# Chen Yutong 陈雨桐
+# Chen Yutong
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Raskiller503/Raskiller503.github.io/main/IMG_8327.png" alt="Chen Yutong" width="280" style="border-radius: 15px; margin-bottom: 20px;">
