@@ -38,9 +38,9 @@ My doctoral research centers on creating intelligent building systems that optim
 
 **Chen Y**, Sumiyoshi D, Sakai R, et al. "Development of Low-Cost IoT Units for Thermal Comfort Measurement and AC Energy Consumption Prediction System." *Preprint*. [📄 arXiv:2411.19536](https://doi.org/10.48550/arXiv.2411.19536)
 
-### Manuscripts Under Review
+**Chen Y**, et al. "A Low-Cost IoT Framework for Device-Free Human Counting and Lighting Energy Control in Commercial Spaces." *Proceedings of ICCCI 2025*,  [📄 Download](Not yet).
 
-**Chen Y**, et al. "A Low-Cost IoT Framework for Device-Free Human Counting and Lighting Energy Control in Commercial Spaces." *Under Review*, 2025.
+### Manuscripts Under Review
 
 **Chen Y**, et al. "BI-Tech: An IoT-Based Behavioral Intervention System for User-Driven Energy Optimization in Commercial Spaces." *Under Review*, 2025.
 
