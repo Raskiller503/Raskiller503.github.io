@@ -42,9 +42,7 @@ My doctoral research centers on creating intelligent building systems that optim
 
 **Chen Y**, Sumiyoshi D,  et al. "A Low-Cost IoT Framework for Device-Free Human Counting and Lighting Energy Control in Commercial Spaces." *Proceedings of IEEE International Conference on Computer Communication and the Internet (ICCCI) 2025*,  [📄 Download]
 
-### Manuscripts Under Review
-
-**Chen Y**, et al. "BI-Tech: An IoT-Based Behavioral Intervention System for User-Driven Energy Optimization in Commercial Spaces." *Under Review*, 2025.
+**Chen Y**, et al. "BI-Tech: An IoT-Based Behavioral Intervention System for User-Driven Energy Optimization in Commercial Spaces." *IEEE ACCESS*, 2025.
 
 ### Open Source Contributions
 
